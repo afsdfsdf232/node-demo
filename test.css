@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+div{
+  background-color: yellow;
+}
+h1{
+  font-weight: 600;
+  font-size: 40px;
+}
